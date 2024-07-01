@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdvCalc/static/css/main.3306e56c.css",
+    "main.js": "/AdvCalc/static/js/main.1c5077ad.js",
+    "static/js/787.da78d54b.chunk.js": "/AdvCalc/static/js/787.da78d54b.chunk.js",
+    "index.html": "/AdvCalc/index.html",
+    "main.3306e56c.css.map": "/AdvCalc/static/css/main.3306e56c.css.map",
+    "main.1c5077ad.js.map": "/AdvCalc/static/js/main.1c5077ad.js.map",
+    "787.da78d54b.chunk.js.map": "/AdvCalc/static/js/787.da78d54b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3306e56c.css",
+    "static/js/main.1c5077ad.js"
+  ]
+}
